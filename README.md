@@ -19,9 +19,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Updates:
 - ".wav" is coming soon 😊
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgements
 This tool uses the pytube library for downloading YouTube videos.
 The moviepy library is used for converting video files to MP3 format.
