@@ -1,6 +1,5 @@
-# DavidSornRepo
+# YouTube Video Downloader and MP3
 
-YouTube Video Downloader and MP3 Converter
 Description
 This Python tool allows you to download videos from YouTube directly to your local drive and automatically converts them into MP3 format. It's a simple and efficient solution for users who want to save their favorite videos as audio files for offline listening. Best of all, it's bug-free!
 
