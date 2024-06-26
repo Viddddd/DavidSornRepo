@@ -14,8 +14,7 @@ Requirements
 - Python 3.x
 - pytube library
 - moviepy library
-  
-Contributing
+
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 
 License
